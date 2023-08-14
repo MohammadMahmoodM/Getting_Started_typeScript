@@ -1,0 +1,13 @@
+var number_two = 2;
+var number_four = 4;
+var number_five = 5;
+var number_ten = 10;
+var number_sixteen = 16;
+var sum = number_four + number_four;
+var subtract = number_ten - number_two;
+var divide = number_sixteen / number_two;
+var multiply = number_four * number_two;
+console.log("After Sum", sum);
+console.log("After Subtract", subtract);
+console.log("After divide", divide);
+console.log("After multiply", multiply);
